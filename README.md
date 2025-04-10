@@ -1,6 +1,7 @@
 # Los-Angeles-Crime-Analysis-In-Power-BI
 ## Introduction
 This project examines crime data in Los Angeles from January 2020 to 2023, aiming to uncover trends and correlations. The analysis focuses on crime patterns and their relationship to factors such as location, gender, and ethnicity, providing insights into the likelihood of victimization across different demographics.
+
 ![image](https://github.com/user-attachments/assets/14a8c58e-0d67-4d45-9065-9659e325dc4a)
 
 
